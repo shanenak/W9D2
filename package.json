@@ -1,0 +1,23 @@
+{
+  "name": "practice-for-ch-js-asteroids-long-practice-main",
+  "version": "1.0.0",
+  "description": "In this practice, you will implement the classic game Asteroids.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanenak/W9D2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shanenak/W9D2/issues"
+  },
+  "homepage": "https://github.com/shanenak/W9D2#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
