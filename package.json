@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "In this practice, you will implement the classic game Asteroids.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack --watch --mode=development"
   },
   "repository": {
     "type": "git",
